@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 </div>
 
-## ⚡ About Me
+<h2 align="center">⚡ About Me</h2>
 
 ```python
 class Jainil:
@@ -48,7 +48,7 @@ class Jainil:
 
 <br/>
 
-## 🧰 Tech Arsenal
+<h2 align="center"> 🧰 Tech Arsenal</h2>
 
 <div align="center">
 
@@ -84,7 +84,7 @@ class Jainil:
 
 <br/>
 
-## 🧪 Featured Builds
+<h2 align="center">🧪 Featured Builds</h2>
 
 <div align="center">
 
@@ -97,9 +97,9 @@ class Jainil:
 | 🎙️ **Simulink Voice Encryption App** | Android/iOS app for real-time encrypted voice transmission with frequency scrambling and speech watermarking |
 
 </div>
-
-<br/>
 <!--
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -113,7 +113,8 @@ class Jainil:
 
 <br/>
 -->
-## 🤝 Connect With Me
+
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 
