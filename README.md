@@ -99,7 +99,7 @@ class Jainil:
 </div>
 
 <br/>
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -112,7 +112,7 @@ class Jainil:
 </div>
 
 <br/>
-
+-->
 ## 🤝 Connect With Me
 
 <div align="center">
