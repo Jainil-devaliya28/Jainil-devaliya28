@@ -32,8 +32,8 @@ class Jainil:
     def __init__(self):
         self.role         = "Final-Year B.Tech, Electrical Engineering with minor in Computer Science and Engineering"
         self.institute     = "Indian Institute of Technology, Gandhinagar"
-        self.domains       = ["VLSI & Digital Design", "Embedded Systems", "Machine Learning", "Full-Stack Dev"]
-        self.currently_on  = ["RRAM-based Logic-in-Memory Design", "Battery Management System (STM32)"]
+        self.domains       = ["VLSI & Digital Design", "Embedded Systems", "Full-Stack Dev", "Machine Learning"]
+        self.currently_on  = ["AI-Assisted Multilingual Experiment Instruction Platform", "Battery Management System (STM32)"]
 
     def say_hi(self):
         return "Let's build something efficient, low-power, and a little unconventional!"
