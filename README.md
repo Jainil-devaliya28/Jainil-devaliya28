@@ -44,7 +44,7 @@ class Jainil:
 - 🧠 Deep interest in **approximate computing**, **in-memory computing**, **Software Development** and **hardware-efficient ML**
 - 🌱 Always exploring the space where **hardware meets intelligence**
 - ⚙️ From gate-level circuits in Cadence to full-stack apps in Flask — I like understanding systems end to end
-- 📫 Reach me at **jainil.devaliya@iitgn.ac.in** or **jainildevaliya@gmail.com**
+- 📫 Reach me at **jainil.devaliya@iitgn.ac.in** or **jainildevaliya9316@gmail.com**
 
 <br/>
 
@@ -117,13 +117,13 @@ class Jainil:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+<a href="https://www.linkedin.com/in/jainil-devaliya/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:jainil.devaliya@iitgn.ac.in">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/Jainil-devaliya28">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
